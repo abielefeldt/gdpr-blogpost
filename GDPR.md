@@ -53,23 +53,23 @@ Our client, The German Marshall Fund of the United States ([GMFUS](http://gmfus.
 
 Once the module was installed, the only thing that needed to be updated was shortening "The German Marshall Fund of the United States" (their site name) to "GMFUS" in the pop-up text. Here's what the popup looks like on desktop and mobile:
 
-![Desktop consent popup](https://puu.sh/AoAZ2.png)
+![Desktop consent popup](https://puu.sh/AoAZ2.png)  
 *The consent pop-up on desktop*
 
-![Desktop accept popup](https://puu.sh/AoAZg.png)
+![Desktop accept popup](https://puu.sh/AoAZg.png)  
 *The acceptance pop-up on desktop*
 
-![Mobile consent popup](https://puu.sh/AoBfh.png)
+![Mobile consent popup](https://puu.sh/AoBfh.png)  
 *The consent pop-up on mobile*
 
-![Mobile accept popup](https://puu.sh/AoBa3.png)
+![Mobile accept popup](https://puu.sh/AoBa3.png)  
 *The acceptance pop-up on mobile*
 
 Note the differences between the desktop and mobile pop-ups. The reasoning is that the popup is not sufficiently intrusive on desktop to require a way to dismiss it immediately without accepting cookies. On mobile, however, the pop-up is very intrusive, so we need to allow mobile users to dismiss it without accepting cookies. In either case, users will need to be able to update their preference later. This functionality should be available on a Cookie Policy or Privacy Policy page that is linked from the pop-up and easily found in the site navigation, e.g. the footer.
 
 The module comes with an HTML file that has code for embedding a button in a page for enabling and disabling tracking cookies. The module Readme has instructions for including this button.
 
-![Cookie policy toggle button](https://puu.sh/AoBss.png)
+![Cookie policy toggle button](https://puu.sh/AoBss.png)  
 *The button for toggling Google Analytics on and off.*
 
 ### Compliance Goes Beyond Google Analytics
