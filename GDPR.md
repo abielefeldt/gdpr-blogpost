@@ -31,8 +31,6 @@ However, this module does not come with any way for users to opt out of Google A
 
 To address the issues with the EU Cookie Compliance module, I have created my own module for Drupal 7 which overrides the default configuration and will disable Google Analytics tracking for users who have not agreed to the cookie pop-up, as long as GA is provided by the google_analytics module.
 
-[Screenshots for comparison]
-
 This module disables Google Analytics by executing the following line of Javascript code in the `<head>` before the analytics code is included:
 
 ```
