@@ -37,7 +37,7 @@ This module disables Google Analytics by executing the following line of Javascr
 window['ga-disable-UA-xxxxxxx-yy'] = true; // UA-xxxxxxx-yy is your Google Analytics ID
 ```
 
-Yes, that’s really it. If a user hasn’t consented to Google Analytics tracking, all that’s needed is to run this code before the ga() function is called. This is easy enough for a developer to do, and the project page for the EU Cookie Compliance module addresses this by linking to [a comment](http://drupal.org/node/1648286#comment-6145800) in the issue queue. But if you have to set up and configure this module on a lot of sites, then that's a lot of work that needs to be done.
+Yes, that’s really it. If a user hasn’t consented to Google Analytics tracking, all that’s needed is to run this code before the `ga()` function is called. This is easy enough for a developer to do, and the project page for the EU Cookie Compliance module addresses this by linking to [a comment](http://drupal.org/node/1648286#comment-6145800) in the issue queue. But if you have to set up and configure this module on a lot of sites, then that's a lot of work that needs to be done.
 
 If you're in need of a module that you can install and it will "just work," then go ahead and grab the module. See if it works for you. If it doesn't, you're encouraged to modify it to suit your needs. It's a "sandbox" module which means unless you manually download newer versions you'll never have to worry about your changes getting overwritten.
 
