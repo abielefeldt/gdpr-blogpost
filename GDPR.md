@@ -1,6 +1,6 @@
 # Google Analytics and GDPR Compliance in Drupal 7
 
-Let's say you're a site owner or a web developer. Has GDPR been on your mind lately? If you read the title and clicked on this blog post out of more than a passing curiosity, then you're most likely the target audience of this blog post.
+Let's say you're a site owner or a web developer. Has GDPR been on your mind lately? If you read the title and clicked on this blog post out of more than a passing curiosity, then you're most likely our target audience.
 
 As of this writing, the May 25th deadline for implementing compliance with the EU’s General Data Protection Regulation is just around the corner. Numerous articles have been published about GDPR and what it means for site owners and developers, but there isn’t a single definitive, authoritative source for figuring out whether a website needs to comply with GDPR, and if it does, what specifically needs to be done to become compliant. Those questions can generally only be confidently answered by a site owner’s legal counsel. (And yes, that absolutely means that this blog post is not authoritative either, merely informative. Talk to your lawyers!)
 
