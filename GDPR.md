@@ -49,7 +49,7 @@ To download it, you'll need to clone the repository using git. See the [Version 
 
 Our client, The German Marshall Fund of the United States ([GMFUS](http://gmfus.org/)), found that they needed to be GDPR compliant and were happy to be the test bed for the F1 GDPR module.
 
-Once the module was installed, the only thing that needed to be updated was shortening "The German Marshall Fund of the United States" (their site name) to "GMFUS" in the pop-up text. Here's what the popup looks like on desktop and mobile:
+Once the module was installed, the only items that needed updating were shortening "The German Marshall Fund of the United States" to "GMFUS" and changing "analyse" (UK) to "analyze" (US) in the pop-up text. Here's what the popup looks like on desktop and mobile:
 
 ![Desktop consent popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/master/desktop-initial.png)  
 *The consent pop-up on desktop*
@@ -72,5 +72,5 @@ The module comes with an HTML file that has code for embedding a button in a pag
 
 ### Compliance Goes Beyond Google Analytics
 
-This blog post and accompanying module largely only covers the role of Google Analytics in GDPR compliance. Site owners are responsible for becoming familiar with GDPR and identifying other potentially noncompliant functionality. How else might you be using PII? Don't just throw a pop-up or module on your site and assume you're compliant. Assume the EU will take GDPR compliance seriously and that you are a "big enough fish" to get caught up in it.
+This blog post and accompanying module largely only covers the role of Google Analytics in GDPR compliance. Site owners are responsible for becoming familiar with GDPR and identifying other potentially noncompliant functionality. How else might your site be using PII? Don't just throw a pop-up or module on your site and assume you're compliant. Assume the EU will take GDPR compliance seriously and that you are a "big enough fish" to get caught up in it.
 
