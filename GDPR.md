@@ -51,23 +51,23 @@ Our client, The German Marshall Fund of the United States ([GMFUS](http://gmfus.
 
 Once the module was installed, the only thing that needed to be updated was shortening "The German Marshall Fund of the United States" (their site name) to "GMFUS" in the pop-up text. Here's what the popup looks like on desktop and mobile:
 
-![Desktop consent popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/blob/master/desktop-initial.png)  
+![Desktop consent popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/master/desktop-initial.png)  
 *The consent pop-up on desktop*
 
-![Desktop accept popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/blob/master/desktop-accept)  
+![Desktop accept popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/master/desktop-accept.png)  
 *The acceptance pop-up on desktop*
 
-![Mobile consent popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/blob/master/mobile-initial.png)  
+![Mobile consent popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/master/mobile-initial.png)  
 *The consent pop-up on mobile*
 
-![Mobile accept popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/blob/master/mobile-accept.png)  
+![Mobile accept popup](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/master/mobile-accept.png)  
 *The acceptance pop-up on mobile*
 
 Note the differences between the desktop and mobile pop-ups. The reasoning is that the popup is not sufficiently intrusive on desktop to require a way to dismiss it immediately without accepting cookies. On mobile, however, the pop-up is very intrusive, so we need to allow mobile users to dismiss it without accepting cookies. In either case, users will need to be able to update their preference later. This functionality should be available on a Cookie Policy or Privacy Policy page that is linked from the pop-up and easily found in the site navigation, e.g. the footer.
 
 The module comes with an HTML file that has code for embedding a button in a page for enabling and disabling tracking cookies. The module Readme has instructions for including this button.
 
-![Cookie policy toggle button](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/blob/master/cookie-policy.png)  
+![Cookie policy toggle button](https://raw.githubusercontent.com/abielefeldt/gdpr-blogpost/master/cookie-policy.png)  
 *The button for toggling Google Analytics on and off.*
 
 ### Compliance Goes Beyond Google Analytics
