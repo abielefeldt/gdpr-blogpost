@@ -74,3 +74,4 @@ The module comes with an HTML file that has code for embedding a button in a pag
 
 This blog post and accompanying module largely only covers the role of Google Analytics in GDPR compliance. Site owners are responsible for becoming familiar with GDPR and identifying other potentially noncompliant functionality. How else might your site be using PII? Don't just throw a pop-up or module on your site and assume you're compliant. Assume the EU will take GDPR compliance seriously and that you are a "big enough fish" to get caught up in it.
 
+As an aside, given their commitment to US-European relations, GMFUS is also well-versed in GDPR and have published [an article](http://www.gmfus.org/blog/2018/05/11/how-gdpr-could-affect-transatlantic-relationship) on the implications of GDPR.
